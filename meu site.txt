@@ -7,7 +7,7 @@
   <meta name="description" content="Restauro e reparação de relógios antigos (cuco, parede, carrilhão, mesa, caixas musica, barometros, autómatos, ) — Lisboa, Cascais, Sintra. Serviços: limpeza, restauração de caixas, peças, revisão completa." />
   <meta name="keywords" content="restauro relógios antigos, reparação relógios Lisboa, relojoaria, relógios de cuco, parede, mesa, carrilhão" />
   <meta property="og:title" content="Restauro Relógios Antigos — Lisboa" />
-  <meta property="og:description" content="Reparação e restauro profissional de relógios antigos. Orçamentos rápidos — contacto:relogiostempo@gmail.com  934542550" />
+  <meta property="og:description" content="Reparação e restauro profissional de relógios antigos. Orçamentos rápidos — contacto:934542550 relogiostempo@gmail.com" />
   <meta property="og:type" content="website" />
   <meta name="author" content="Relogios Tempo" />
   <link rel="icon" href="assets/favicon.png" />
@@ -300,6 +300,7 @@
   </script>
 </body>
 </html>
+
 
 
 
